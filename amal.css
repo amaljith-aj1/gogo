@@ -1,0 +1,51 @@
+
+
+.pic{
+height:300px;
+}
+.sename{
+
+text-align:center;
+
+}
+
+.bart{
+width:25%;
+border:2px solid black;
+border-radius:50px;
+
+}
+.mainsearch{
+align:centre;
+padding:5%;
+}
+.sub{
+color:steelblue;
+border:1px solid black;
+border-radius:50px;
+padding:10px;
+}
+.search{
+text-align:center;
+
+}
+.bbar{
+border: 1px  double black;
+border-radius:25px;
+width:25%;
+padding:10px;
+}
+.foot{
+
+}
+.followme{
+border:1px solid black;
+width:45px;
+border-radius:50px;
+text-align:center;
+padding:0px;
+font-size:20px;
+}
+.fm{
+text-align:center;
+}₹₹
